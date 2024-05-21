@@ -18,4 +18,3 @@ print(obj1)        # Print object's memory details
 print(obj1.name)   # Access and print the class attribute 'name' using the instance
 
 #Since name is a class attribute, it is shared by all instances of the Student class and thus can be accessed using the instance.
-
